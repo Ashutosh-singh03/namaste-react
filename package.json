@@ -10,14 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/Ashutosh-singh03/namaste-react.git"
   },
-  "keywords": [
-    "react",
-    "namaste-react"
-  ],
+  "keywords": [],
   "author": "Ashutosh Singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ashutosh-singh03/namaste-react/issues"
   },
-  "homepage": "https://github.com/Ashutosh-singh03/namaste-react#readme"
+  "homepage": "https://github.com/Ashutosh-singh03/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.1"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
 }
